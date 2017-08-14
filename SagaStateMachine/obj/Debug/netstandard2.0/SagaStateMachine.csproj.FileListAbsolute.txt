@@ -1,0 +1,16 @@
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.csproj.CoreCompileInputs.cache
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.AssemblyInfoInputs.cache
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.AssemblyInfo.cs
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\SagaStateMachine\bin\Debug\netstandard2.0\SagaStateMachine.deps.json
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\SagaStateMachine\bin\Debug\netstandard2.0\SagaStateMachine.dll
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\SagaStateMachine\bin\Debug\netstandard2.0\SagaStateMachine.pdb
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.dll
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.pdb
+C:\dev\test-projects\IssueRequestStateMachine\SagaStateMachine\bin\Debug\netstandard2.0\SagaStateMachine.deps.json
+C:\dev\test-projects\IssueRequestStateMachine\SagaStateMachine\bin\Debug\netstandard2.0\SagaStateMachine.dll
+C:\dev\test-projects\IssueRequestStateMachine\SagaStateMachine\bin\Debug\netstandard2.0\SagaStateMachine.pdb
+C:\dev\test-projects\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.csproj.CoreCompileInputs.cache
+C:\dev\test-projects\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.AssemblyInfoInputs.cache
+C:\dev\test-projects\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.AssemblyInfo.cs
+C:\dev\test-projects\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.dll
+C:\dev\test-projects\IssueRequestStateMachine\SagaStateMachine\obj\Debug\netstandard2.0\SagaStateMachine.pdb

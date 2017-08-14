@@ -1,0 +1,13 @@
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\bin\Debug\netcoreapp2.0\IssueRequestStateMachine.deps.json
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\bin\Debug\netcoreapp2.0\IssueRequestStateMachine.runtimeconfig.json
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\bin\Debug\netcoreapp2.0\IssueRequestStateMachine.runtimeconfig.dev.json
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\bin\Debug\netcoreapp2.0\IssueRequestStateMachine.dll
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\bin\Debug\netcoreapp2.0\IssueRequestStateMachine.pdb
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\obj\Debug\netcoreapp2.0\IssueRequestStateMachine.csproj.CoreCompileInputs.cache
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\obj\Debug\netcoreapp2.0\IssueRequestStateMachine.AssemblyInfoInputs.cache
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\obj\Debug\netcoreapp2.0\IssueRequestStateMachine.AssemblyInfo.cs
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\obj\Debug\netcoreapp2.0\IssueRequestStateMachine.dll
+C:\dev\test-projects\SagaStateMachine\IssueRequestStateMachine\IssueRequestStateMachine\obj\Debug\netcoreapp2.0\IssueRequestStateMachine.pdb
