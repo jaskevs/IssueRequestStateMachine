@@ -11,7 +11,7 @@ namespace ReceiveEndpoint
     {
         public static void Main(string[] args)
         {
-            var connectionString = @"Server=192.168.90.98\sql2016;Database=TRIBE;User ID=sa;Password=redland1; ";
+            var connectionString = @"Server=;Database=IssueDb;User ID=sa;Password=123password";
             HostFactory.Run(c =>
             {
                 //c.UseMicrosoftDependencyInjection(Provider)

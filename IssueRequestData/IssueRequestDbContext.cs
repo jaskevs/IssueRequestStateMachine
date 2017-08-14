@@ -31,7 +31,7 @@ namespace IssueRequestData
         public IssueRequestDbContext Create(DbContextFactoryOptions options)
         {
             var optionsBuilder = new DbContextOptionsBuilder<IssueRequestDbContext>();
-            optionsBuilder.UseSqlServer("Server=192.168.90.98\\sql2016;Database=TRIBE;User ID=sa;Password=redland1;");
+            optionsBuilder.UseSqlServer("Server=;Database=IssueDb;User ID=sa;Password=123password;");
 
             return new IssueRequestDbContext(optionsBuilder.Options);
         }
